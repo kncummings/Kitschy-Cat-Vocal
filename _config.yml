@@ -37,7 +37,7 @@ author: Katharine Cummings
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQMtu8VgWW6AKHchbpO74Md3vqAmuoxu3xGC-G2s73x-a75po2camt6fz-XVP8IOAPRZYG4MjAz9eFw/pub?output=csv
+metadata-csv: assets/kitshcy-cat-vocal-2.csv
 
 ##########
 # Site/Organization Branding 
