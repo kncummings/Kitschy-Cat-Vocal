@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder-Sheets
+title: Cat Vocalizations - Kitschy 2025
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: A small collection of cat vocalization audio recordings
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-Sheets is a template for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills."
+description: "This collection documents various vocalizations by my cat, Kitschy. Please, be aware that the content of this site is entirely audio-based, and the volume may fluctuate. Use caution when wearing headphones, and turn your device’s volume down before opening the audio file."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Katharine Cummings
 
 ##########
 # COLLECTION SETTINGS
@@ -43,10 +43,10 @@ metadata-csv: /assets/kitschy-cat-vocal.csv
 # Site/Organization Branding 
 # 
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
-# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "University of Iowa School of Library and Information Science, Information Organization Course Spring 2025"
+# organization-link: https:
+# organization-logo-banner:
+# organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
