@@ -4,12 +4,11 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+keywords,Keywords
+filetype,File Type
+extent,Extent
+filename,File Name
 identifier,Source Identifier,,
-type,Type,
+filesize,File Size
 format,Format,
 rights,Rights,
-rightsstatement,Rights Statement,,true
