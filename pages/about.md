@@ -15,9 +15,9 @@ credits: true
 This collection documents various vocalizations by my cat, Kitschy. Please, be aware that the content of this site is entirely audio-based, and the volume may fluctuate. Use caution when wearing headphones, and turn your device's volume down before opening the audio file.
 
 Keywords used to categroize these recordsing include by:
-Type, ex. meow, purr, bark, trill
-Feeling or reason, ex. happy, lonely, active, inquisitive, hungry, excited
-Action, ex. complain, greeting, chewing, warning
+Type, ex. meow, purr, bark, trill.
+Feeling or reason, ex. happy, lonely, active, inquisitive, hungry, excited.
+Action, ex. complain, greeting, chewing, warning.
 
 To search by keywords, please enter "keywords:" and add one of the terms above.
 
